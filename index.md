@@ -1,6 +1,6 @@
 # Test Testson
 
 ## My projects
-* Collabortive Software Project in Computational Physics
+* Collaborative Software Project in Computational Physics
 
 ## My skills
